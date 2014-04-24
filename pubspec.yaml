@@ -1,0 +1,5 @@
+name: SimHouse
+description: A sample application
+dependencies:
+  three:
+    git: https://github.com/threeDart/three.dart.git
